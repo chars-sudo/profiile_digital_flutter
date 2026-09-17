@@ -64,7 +64,7 @@ class ProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 6),
             const Text(
-              'NIM 2205123456',
+              'NIM 2111081',
               style: TextStyle(fontSize: 14, color: Colors.grey),
             ),
             const SizedBox(height: 12),
